@@ -2,8 +2,6 @@
 
 Tiktok like scrolling for Reddit
 
-View at: https://dynamic-peony-5467c4.netlify.app/
-
 ## Available Scripts
 
 In the project directory, you can run:
